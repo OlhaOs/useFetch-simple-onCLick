@@ -1,6 +1,6 @@
 {
   "name": "usefetch_simple_hook",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "simple hook to fetch data onCLick",
   "main": "usefetch_simple.js",
   "scripts": {
