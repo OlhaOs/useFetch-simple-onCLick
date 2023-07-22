@@ -1,0 +1,28 @@
+{
+  "name": "usefetch_simple_hook",
+  "version": "1.0.1",
+  "description": "simple hook to fetch data onCLick",
+  "main": "usefetch_simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlhaOs/useFetch-simple-onCLick.git"
+  },
+  "keywords": [
+    "fetch",
+    "hook",
+    "onclick"
+  ],
+  "author": "Olha Osypenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlhaOs/useFetch-simple-onCLick/issues"
+  },
+  "homepage": "https://github.com/OlhaOs/useFetch-simple-onCLick#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
