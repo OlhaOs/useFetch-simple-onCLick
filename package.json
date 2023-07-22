@@ -21,7 +21,7 @@
     "url": "https://github.com/OlhaOs/useFetch-simple-onCLick/issues"
   },
   "homepage": "https://github.com/OlhaOs/useFetch-simple-onCLick#readme",
-  "dependencies": {
+  "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
